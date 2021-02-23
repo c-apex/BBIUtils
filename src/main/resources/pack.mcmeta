@@ -1,7 +1,7 @@
 {
     "pack": {
-        "description": "TheFounders resources",
+        "description": "BBI Utilities usable by any modpack.",
         "pack_format": 5,
-        "_comment": "For JAMS."
+        "_comment": "Developed by c-apex for use mainly on JAMS."
     }
 }
